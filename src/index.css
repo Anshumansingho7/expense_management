@@ -1,0 +1,15 @@
+
+
+*{
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+  margin: 0;
+  background-color: rgb(89, 150, 107);
+}
+
